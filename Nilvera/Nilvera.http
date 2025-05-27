@@ -1,0 +1,6 @@
+@Nilvera_HostAddress = http://localhost:5134
+
+GET {{Nilvera_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
